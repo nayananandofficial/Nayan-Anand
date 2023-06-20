@@ -307,7 +307,7 @@ form {
 
 /* Mobile Screen */
 
-  @media screen and (max-width: 500px) {
+  @media screen and (max-width: 480px) {
     .gradient-background{
       background-image: radial-gradient( circle 120px at 9% 6%,  black 25%, grey 63%, rgba(199,206,187,1) 43%, white 350%, black 13.6% );
       background-size: 9% 4%;
